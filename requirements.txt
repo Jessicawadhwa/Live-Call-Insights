@@ -1,8 +1,7 @@
-﻿streamlit==1.35.0
+streamlit==1.35.0
 openai-whisper==20231117
 transformers==4.41.2
-torch==2.1.2 
-
+torch==2.1.2
 spacy==3.7.4
 plotly==5.21.0
 requests==2.32.3
@@ -14,3 +13,4 @@ tenacity==8.2.3
 nltk==3.8.1
 scipy==1.13.1
 tqdm==4.66.4
+ffmpeg-python==0.2.0

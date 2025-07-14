@@ -1,0 +1,10 @@
+streamlit
+whisper
+openai-whisper
+spacy
+plotly
+requests
+transformers
+matplotlib
+pandas
+torch

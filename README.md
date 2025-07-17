@@ -8,7 +8,7 @@ Analyze call recordings to extract:
 - 😃 Emotion & Sentiment
 - 💬 Conversational Insights
 
-![Screenshot](Applogo.png) <!-- replace with your image if available -->
+
 
 ---
 
@@ -48,3 +48,8 @@ pip install -r requirements.txt
 
 # Run Streamlit app
 streamlit run app.py
+
+
+
+
+

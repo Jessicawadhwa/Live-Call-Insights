@@ -115,7 +115,7 @@ def plot_top_3_bar_chart(emotions):
     st.plotly_chart(fig, use_container_width=True, key="emotion_bar")
 
 def show_dashboard():
-    st.set_page_config(layout="wide")
+   
     st.markdown("""
         <style>
         section[data-testid="stSidebar"] { background-color: white !important; color: black; }

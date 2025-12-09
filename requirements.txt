@@ -1,7 +1,7 @@
 streamlit==1.35.0
 transformers==4.41.2
-torch==2.0.1+cpu
-torchaudio==2.0.2+cpu
+torch==2.0.1
+torchaudio==2.0.2
 numpy==1.26.4
 pandas==2.2.2
 requests==2.32.3
@@ -14,3 +14,4 @@ nltk==3.8.1
 protobuf==4.25.3
 ffmpeg-python==0.2.0
 openai-whisper @ git+https://github.com/openai/whisper.git
+

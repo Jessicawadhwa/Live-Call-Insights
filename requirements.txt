@@ -1,7 +1,8 @@
 streamlit==1.35.0
 transformers==4.41.2
-torch==2.0.1
-torchaudio==2.0.2
+torch==2.1.2+cpu
+torchaudio==2.1.2+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
 numpy==1.26.4
 pandas==2.2.2
 requests==2.32.3
@@ -14,4 +15,5 @@ nltk==3.8.1
 protobuf==4.25.3
 ffmpeg-python==0.2.0
 spacy==3.7.4
-openai-whisper @ git+https://github.com/openai/whisper.git
+whisper-timestamped==1.14.0
+

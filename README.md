@@ -3,26 +3,26 @@
 **AI-powered audio call analysis dashboard** built using **OpenAI Whisper**, **Hugging Face Transformers**, and **Streamlit**.
 
 Analyze call recordings to extract:
-- 🔊 Transcriptions
-- 🗣️ Speaker Diarization
-- 😃 Emotion & Sentiment
-- 💬 Conversational Insights
+-  Transcriptions
+-  Speaker Diarization
+-  Emotion & Sentiment
+-  Conversational Insights
 
 
 
 ---
 
-## 🚀 Features
+##  Features
 
-✅ Transcribe audio using Whisper  
-✅ Detect speaker turns  
-✅ Analyze emotions and sentiments using RoBERTa  
-✅ Chat with an AI Assistant based on call content  
-✅ Visualize key metrics with Plotly and Matplotlib
+ 1. Transcribe audio using Whisper  
+ 2. Detect speaker turns  
+ 3. Analyze emotions and sentiments using RoBERTa  
+ 4. Chat with an AI Assistant based on call content  
+ 5. Visualize key metrics with Plotly and Matplotlib
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 - Python 3.10+
 - [Streamlit](https://streamlit.io/)
@@ -32,7 +32,7 @@ Analyze call recordings to extract:
 
 ---
 
-## 💻 Run Locally
+##  Run Locally
 
 ```bash
 # Clone the repo
